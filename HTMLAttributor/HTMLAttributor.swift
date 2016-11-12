@@ -9,9 +9,6 @@
 import Foundation
 import UIKit
 
-// TODO: Rename framework to HTML
-// TODO: Rename GitHub repo to html
-
 // MARK: API
 
 public protocol HTMLParsing {
